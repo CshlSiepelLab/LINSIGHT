@@ -31,8 +31,8 @@ Here we give a step-by-step guide to explain how to run **LINSIGHT** for the hum
 
 * **Step** 1: Download genome-wide INSIGHT file (hg19 assembly) and genome-wide feature file used in our manuscript.
 ``` 
-$ wget http://compgen.cshl.edu/~yihuang/LINSIGHT/genomic_feature.bed.gz
-$ wget http://compgen.cshl.edu/~yihuang/LINSIGHT/INSIGHT_database.ins.gz
+$ wget http://compgen.cshl.edu/LINSIGHT/genomic_feature.bed.gz
+$ wget http://compgen.cshl.edu/LINSIGHT/INSIGHT_database.ins.gz
 $ gunzip genomic_feature.bed.gz
 $ gunzip INSIGHT_database.ins.gz
 ```
