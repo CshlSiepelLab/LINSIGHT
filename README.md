@@ -8,7 +8,7 @@
 
 ## Precomputed **LINSIGHT** scores
 
-If you are interested in prioritization of variants or estimation of negative selection in the human genome, you can use the precomputed **LINSIGHT** scores described in our manuscript. You don't need to install and run **LINSIGHT** unless you want to retrain **LINSIGHT** using customized genomic features or extend it to non-human species. The precomputed **LINSIGHT** scores are based on the hg19 assembly and can be downloaded [Download LINSIGHT.bw](http://compgen.cshl.edu/LINSIGHT/LINSIGHT.bw). Note that precomputed **LINSIGHT** scores currently can only be used for non-commercial purposes because of the licenses associated with some of the genomic features used in training.
+If you are interested in prioritization of variants or estimation of negative selection in the human genome, you can use the precomputed **LINSIGHT** scores described in our manuscript. You don't need to install and run **LINSIGHT** unless you want to retrain **LINSIGHT** using customized genomic features or extend it to non-human species. The precomputed **LINSIGHT** scores are based on the hg19 assembly and can be downloaded [Download LINSIGHT.bw](http://compgen.cshl.edu/LINSIGHT/LINSIGHT.bw). *(Right-click and choose "Save link as..." if clicking doesn't work.)* Note that precomputed **LINSIGHT** scores currently can only be used for non-commercial purposes because of the licenses associated with some of the genomic features used in training.
 
 ## Installation
 
